@@ -1,0 +1,37 @@
+{
+  "naturalLanguageUnderstanding_apikey": {
+    "searchPatterns": [
+      "file:/server/localdev-config.json:$.naturalLanguageUnderstanding_apikey"
+    ]
+  },
+  "naturalLanguageUnderstanding_iam_apikey_description": {
+    "searchPatterns": [
+      "file:/server/localdev-config.json:$.naturalLanguageUnderstanding_iam_apikey_description"
+    ]
+  },
+  "naturalLanguageUnderstanding_iam_apikey_name": {
+    "searchPatterns": [
+      "file:/server/localdev-config.json:$.naturalLanguageUnderstanding_iam_apikey_name"
+    ]
+  },
+  "naturalLanguageUnderstanding_iam_role_crn": {
+    "searchPatterns": [
+      "file:/server/localdev-config.json:$.naturalLanguageUnderstanding_iam_role_crn"
+    ]
+  },
+  "naturalLanguageUnderstanding_iam_serviceid_crn": {
+    "searchPatterns": [
+      "file:/server/localdev-config.json:$.naturalLanguageUnderstanding_iam_serviceid_crn"
+    ]
+  },
+  "naturalLanguageUnderstanding_url": {
+    "searchPatterns": [
+      "file:/server/localdev-config.json:$.naturalLanguageUnderstanding_url"
+    ]
+  },
+  "naturalLanguageUnderstanding_serviceInfo": {
+    "searchPatterns": [
+      "file:/server/localdev-config.json:$.naturalLanguageUnderstanding_serviceInfo"
+    ]
+  }
+}

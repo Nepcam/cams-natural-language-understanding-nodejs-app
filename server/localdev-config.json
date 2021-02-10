@@ -1,0 +1,8 @@
+{
+  "watson_natural_language_understanding_apikey": "MGOmrNgvTv2B80Rac3Zqqi9dExfxh25uPeVy0XyWmJqY",
+  "watson_natural_language_understanding_iam_apikey_description": "Auto-generated for key e96379bf-3001-42b8-97b9-f5008b23305c",
+  "watson_natural_language_understanding_iam_apikey_name": "5b55fba1-dd00-4aa6-b763-73be9d4bff91",
+  "watson_natural_language_understanding_iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+  "watson_natural_language_understanding_iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/9d027865aa08467a90b473e0fcbf8635::serviceid:ServiceId-fa465625-ddad-4814-90c4-03f0093bb450",
+  "watson_natural_language_understanding_url": "https://api.au-syd.natural-language-understanding.watson.cloud.ibm.com/instances/d1539d78-8dd8-4cbc-a900-15c22ac261c1"
+}
